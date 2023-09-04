@@ -1,0 +1,25 @@
+
+.headlist {
+
+    display: flex;
+    justify-content: space-around;
+ 
+    list-style-type: none;
+}
+
+.headlist li {
+
+    display: flex;
+    justify-content: space-around;
+ margin-right: 10px;
+    list-style-type: none;
+}
+
+.logo {
+    height: 80px ;
+}
+
+.headlist {
+
+    margin-left: 10em;
+}

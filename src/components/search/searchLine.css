@@ -1,0 +1,39 @@
+
+.search-and-use {
+
+    display: grid;
+        grid-template-columns: 30% 70%;
+        grid-template-rows: 1fr;
+        /* grid-auto-rows: 1fr; */
+        /* gap: 5px 5px; */
+        /* grid-auto-flow: row; */
+        justify-items: center; 
+        /* grid-template-areas:
+          ". .";
+     */
+      background-color: aquamarine;
+margin: 0 ; 
+padding: 0;
+}
+
+.two-content {
+    padding:  0;
+    
+}
+
+.search-lang-hello {
+    padding: 5px 1px;
+}
+
+.span-search {
+    width: 70rem;
+    border-top-left-radius: 1cqi;
+    border-bottom-left-radius: 1cqi;
+}
+
+.span-search input {
+
+    width: 45%;
+    border-radius: 1cm;
+    
+}

@@ -1,0 +1,46 @@
+
+.carousel {
+    width: 100%;
+    background-color: #d1bce229;
+}
+
+.custom-height {
+    height: 100px; /* Adjust the height value as needed */
+    
+  }
+
+  .slick-slide div{
+    margin-left: 1rem;
+    
+  }
+
+  /* .slick-next {
+    left: -40px;
+  }  */
+
+  .slick-dots li.slick-active button:before {
+
+    color: blue;
+  } 
+
+  .slick-track {
+    position: relative;
+    top: 0;
+    left: -18px;
+  }
+
+  .imageSourse {
+
+   
+    width: 20rem;
+  }
+
+  /* .slick-arrow {
+    
+  } */
+
+  .slick-cloned {
+    visibility: hidden;
+    display: none;
+    height: 0;
+  }

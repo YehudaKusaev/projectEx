@@ -1,0 +1,42 @@
+.catalogCarousel {
+     margin: auto;
+}
+
+.card {
+   margin-left: 1px 5px;
+   background-color: rgba(255, 228, 196, 0.232);
+   padding: 5px;
+}
+
+/* .react-multi-carousel-item {
+    width: 260px;
+} */
+
+.product--image {
+    height: 15rem;
+    max-width: 95%;
+    margin: 0 auto;
+    border-radius: 3%;
+}
+
+.headerOne h1 {
+    text-shadow: 3ch;
+text-indent: 3ex;
+/* overflow: hidden; */
+
+}
+
+.buton  {
+    background-color: rgb(27, 86, 111);
+    text-align: center;
+    max-width: 90%;
+    
+  
+    border-radius: 1cqi; 
+}
+
+.buton button {
+    text-transform: uppercase;
+    padding: 1px;
+    color: rgb(215, 152, 35);
+}

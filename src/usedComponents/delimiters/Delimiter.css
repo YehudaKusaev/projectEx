@@ -1,0 +1,12 @@
+.full-elem {
+    height: 84px;
+    margin: 0;
+}
+
+
+.delimitValue {
+    align-items: center;
+    border-radius: 50%;
+    bottom: 18px;
+    height: 5ex;
+}

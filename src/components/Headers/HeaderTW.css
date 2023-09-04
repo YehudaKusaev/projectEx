@@ -1,0 +1,20 @@
+
+.cart-shop{
+    /* content: '2'; */
+    position: absolute;
+    bottom: 24px;
+    right: -3px;
+    font-size: 80%;
+    color: aliceblue;
+background-color: rgb(235, 136, 100);
+width: 18px;
+height: 18px;
+border-radius: 1pc;
+text-align: center;
+}
+
+.cartItemDrop {
+    box-shadow: -1px 1px 25px 8px rgba(199,142,142,0.75);
+    -webkit-box-shadow: -1px 1px 25px 8px rgba(199,142,142,0.75);
+    -moz-box-shadow: -1px 1px 25px 8px rgba(199,142,142,0.75);
+}
